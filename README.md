@@ -1,0 +1,2 @@
+# KINGPIN
+practice mode on
